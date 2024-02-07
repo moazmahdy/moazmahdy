@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mahdymoaz1@gmail.com**
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=moazmahdy&label=Profile%20views&color=0e75b6&style=flat" alt="omarlkhalil" />
+  <img src="https://komarev.com/ghpvc/?username=moazmahdy&label=Profile%20views&color=0e75b6&style=flat" alt="moazmahdy" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
